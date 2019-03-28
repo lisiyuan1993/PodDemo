@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ZYTool"
-  spec.version      = "origin/master"
+  spec.version      = "0.0.1"
   spec.summary      = "A just test demo"
 
   # This description is used to generate tags and improve search results.
