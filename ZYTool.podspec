@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  创建私有库的demo
+  创建私有库的demo,sssssssssssssssssssssssssssssssssssssss
                    DESC
 
   spec.homepage     = "https://github.com/lisiyuan1993/PodDemo"
